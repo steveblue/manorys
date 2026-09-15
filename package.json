@@ -1,0 +1,12 @@
+{
+  "name": "manorys",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Manory's Restaurant website archive",
+  "scripts": {
+    "format": "prettier --write \"**/*.html\""
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
